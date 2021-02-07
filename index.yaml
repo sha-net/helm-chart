@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+    created: "2021-02-07T12:42:25.435668+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a026790c907b90e2ed51accbdff81758c496adaacb0864d507fa43ec7cd13cbb
+    name: helm-chart-test
+    type: application
+    sources:
+    - https://github.com/sha-net/helm-chart/helm-chart-test-0.1.0.tgz
+    urls:
+    - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-07T12:42:25.434323+02:00"
