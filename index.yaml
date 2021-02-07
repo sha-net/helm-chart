@@ -7,7 +7,7 @@ entries:
     name: helm-chart-test
     type: application
     sources:
-    - https://github.com/sha-net/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://github.com/sha-net/helm-chart
     urls:
     - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
