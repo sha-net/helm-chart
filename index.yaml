@@ -3,33 +3,44 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-02-23T19:17:22.137739+02:00"
+    created: "2022-02-23T19:31:05.244679+02:00"
     description: A Helm chart for Kubernetes
     digest: eef73c3e00563f8d8c7094e91daf9bcc0f91eb802f1cfbfa07248aca280e9158
     name: helm-chart-test
     type: application
     urls:
-    - https://sha-net.github.io/helm-chart/helm-chart-test-0.17.3.tgz
+    - helm-chart-test-0.17.3.tgz
     version: 0.17.3
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-02-23T19:17:22.137124+02:00"
+    created: "2022-02-23T19:31:05.244197+02:00"
     description: A Helm chart for Kubernetes
     digest: afaf1db0a221bcc4e62592cc19651ec71db38040cf4b6a28daf3cc2cc6a24c00
     name: helm-chart-test
     type: application
     urls:
-    - https://sha-net.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    - helm-chart-test-0.1.0.tgz
     version: 0.1.0
   helm-template:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-02-23T19:17:22.138245+02:00"
+    created: "2022-02-23T19:31:05.245115+02:00"
     description: A Helm chart for Kubernetes
-    digest: be0c2fe02b502c8ff36bbb8ec87939a3c9b5a6eb41f8625b764a77e521723196
+    digest: 2eff0276a6d53f0aaaff43ceffa5d877937411a0b11e636108061af8779137fb
     name: helm-template
     type: application
     urls:
-    - https://sha-net.github.io/helm-chart/python-simple-rest-1.1.0.tgz
+    - helm-template-1.1.0.tgz
     version: 1.1.0
-generated: "2022-02-23T19:17:22.135347+02:00"
+  python-simple-rest:
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2022-02-23T19:31:05.245519+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b3128f84409bd245945f5b8742f98c4c8a7c23773551c08ca45cc061f4938775
+    name: python-simple-rest
+    type: application
+    urls:
+    - python-simple-rest-1.1.1.tgz
+    version: 1.1.1
+generated: "2022-02-23T19:31:05.243638+02:00"
