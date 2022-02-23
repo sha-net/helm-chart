@@ -3,7 +3,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-02-23T17:11:23.494639+02:00"
+    created: "2022-02-23T17:13:48.334119+02:00"
     description: A Helm chart for Kubernetes
     digest: eef73c3e00563f8d8c7094e91daf9bcc0f91eb802f1cfbfa07248aca280e9158
     name: helm-chart-test
@@ -13,7 +13,7 @@ entries:
     version: 0.17.3
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-02-23T17:11:23.494089+02:00"
+    created: "2022-02-23T17:13:48.333713+02:00"
     description: A Helm chart for Kubernetes
     digest: afaf1db0a221bcc4e62592cc19651ec71db38040cf4b6a28daf3cc2cc6a24c00
     name: helm-chart-test
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-23T17:11:23.492568+02:00"
+generated: "2022-02-23T17:13:48.333155+02:00"
