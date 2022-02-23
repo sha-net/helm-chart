@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-template:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-02-23T19:20:02.636775+02:00"
+    description: A Helm chart for Kubernetes
+    digest: be0c2fe02b502c8ff36bbb8ec87939a3c9b5a6eb41f8625b764a77e521723196
+    name: helm-template
+    type: application
+    urls:
+    - http://https:/sha-net.github.io/helm-chart/python-simple-rest-1.1.0.tgz
+    version: 1.1.0
+generated: "2022-02-23T19:20:02.63601+02:00"
