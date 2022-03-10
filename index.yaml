@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  gcp-helm-template:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-03-10T10:31:38.523391+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 126205c63cdc7f5a9e6094d4311e7a79461d52f4660cc3c18a2f7c3e2164d4bc
+    name: gcp-helm-template
+    type: application
+    urls:
+    - gcp-helm-template-0.1.0.tgz
+    version: 0.1.0
   helm-chart-test:
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-03-10T10:26:43.224354+02:00"
+    created: "2022-03-10T10:31:38.524421+02:00"
     description: A Helm chart for Kubernetes
     digest: eef73c3e00563f8d8c7094e91daf9bcc0f91eb802f1cfbfa07248aca280e9158
     name: helm-chart-test
@@ -13,7 +24,7 @@ entries:
     version: 0.17.3
   - apiVersion: v2
     appVersion: 0.17.3
-    created: "2022-03-10T10:26:43.2238+02:00"
+    created: "2022-03-10T10:31:38.523916+02:00"
     description: A Helm chart for Kubernetes
     digest: afaf1db0a221bcc4e62592cc19651ec71db38040cf4b6a28daf3cc2cc6a24c00
     name: helm-chart-test
@@ -24,7 +35,7 @@ entries:
   helm-template:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-03-10T10:26:43.224915+02:00"
+    created: "2022-03-10T10:31:38.52497+02:00"
     description: A Helm chart for Kubernetes
     digest: 2eff0276a6d53f0aaaff43ceffa5d877937411a0b11e636108061af8779137fb
     name: helm-template
@@ -35,7 +46,7 @@ entries:
   python-simple-rest:
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2022-03-10T10:26:43.225463+02:00"
+    created: "2022-03-10T10:31:38.525557+02:00"
     description: A Helm chart for Kubernetes
     digest: b3128f84409bd245945f5b8742f98c4c8a7c23773551c08ca45cc061f4938775
     name: python-simple-rest
@@ -43,4 +54,4 @@ entries:
     urls:
     - python-simple-rest-1.1.1.tgz
     version: 1.1.1
-generated: "2022-03-10T10:26:43.223099+02:00"
+generated: "2022-03-10T10:31:38.522377+02:00"
